@@ -1,0 +1,58 @@
+#pic {
+    text-align: center;  
+    padding: 100px;}
+
+#About {
+    position: absolute; left: 75px;
+    font-family: sans-serif; display: inline;  
+    font-size: 12px; top: 25px;}
+
+#About:hover {text-decoration: underline; }
+
+#Store {
+    position: absolute; display: inline;
+    margin-left: 15px;
+    font-family: sans-serif;
+    font-size: 12px; top: 25px;}
+
+#Store:hover {text-decoration: underline;}
+
+#Gmail {
+    position: absolute;
+    right: 120px; top: 25px; text-align: right;
+    font-family: sans-serif; font-size: 12px;}
+
+#Gmail:hover {text-decoration: underline;}
+
+#Images {
+    position: absolute;
+    right: 60px; top: 25px; text-align: right;
+    font-family: sans-serif; font-size: 12px;}
+
+#Images:hover {text-decoration: underline;}
+
+#ads {
+    position: absolute;
+    bottom: 10px; word-spacing: 20px;
+    font-family: sans-serif; font-size: 12px;}
+
+#Search {
+    position: absolute; bottom: 10px;
+    left: 175px; font-family: sans-serif; font-size: 12px;}
+
+#Privacy {
+    position: absolute; bottom: 10px;
+    right: 15px; word-spacing: 20px;
+    font-family: sans-serif; font-size: 12px;}
+
+#searchbar {
+    position: relative; text-align: center; bottom: 100px;}
+
+#user-avatar {
+    top: 18px; 
+    position: absolute; 
+    width: 30px; 
+    height: 30px; 
+    border-radius: 50%; 
+    right: 15px;
+}
